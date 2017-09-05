@@ -1,0 +1,4 @@
+1. Clone repository to badak. 
+2. Create folder week00-10, key, log, xtra, and sandbox. 
+3. Create report in week00 folder.
+4. Create whyStudyOS.txt in week01 folder.
