@@ -1,0 +1,6 @@
+1. Create Google account.
+2. Create GitHub account.
+3. Create repository in the Github account had been created.
+4. Fill out Google Form on https://docs.google.com/forms/d/e/1FAIpQLSdHncGmqTefBw8U0PNNePExpq-HKdpRNq62q3epohuvvohqJA/viewform?usp=sf_link#response=ACYDBNgaOi4B1HOqFdGPEA_L2KmnVX5PxByve-wJ-r0KvJzkHwzvo_MBDtXYxK4
+5. Wait about 24 hours. 
+6. Login to badak.cs.ui.ac.id with registered SIAK account. 
